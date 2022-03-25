@@ -1,5 +1,6 @@
 <com.google.android.gms.ads.nativead.NativeAdView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
+    android:background="@color/browser_actions_bg_grey"
     android:layout_height="wrap_content">
 
     <LinearLayout
@@ -36,6 +37,7 @@
                         android:layout_marginLeft="1dp"
                         android:layout_marginTop="1dp"
                         android:gravity="center"
+                        android:background="@drawable/round_black"
                         android:textColor="#ffffff" />
 
                 </RelativeLayout>
@@ -99,7 +101,7 @@
                         android:layout_height="35dp"
                         android:layout_gravity="center"
                         android:layout_marginRight="1dp"
-                        android:background="#0984e3"
+                        android:background="@drawable/round_black"
                         android:gravity="center"
                         android:textColor="@color/cardview_light_background"
                         android:textSize="12sp" />

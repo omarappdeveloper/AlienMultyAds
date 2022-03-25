@@ -99,7 +99,7 @@
                         android:layout_height="35dp"
                         android:layout_gravity="center"
                         android:layout_marginRight="1dp"
-                        android:background="#0984e3"
+                        android:background="@color/colorPrimary"
                         android:gravity="center"
                         android:textColor="@color/cardview_light_background"
                         android:textSize="12sp" />
