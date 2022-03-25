@@ -3,9 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/ANDROID/AlienMultyAds-Saturn-02/AlienAds/src/main/res/drawable/round_black.xml" value="0.3225" />
-        <entry key="..\:/ANDROID/AlienMultyAds-Saturn-02/AlienAds/src/main/res/layout/admob_big_native.xml" value="0.271286231884058" />
-        <entry key="..\:/ANDROID/AlienMultyAds-Saturn-02/AlienAds/src/main/res/layout/admob_small_native.xml" value="0.40217391304347827" />
+        <entry key="..\:/ANDROID/AlienMultyAds-Saturnus-11/AlienAds/src/main/res/drawable/round.xml" value="0.2335" />
+        <entry key="..\:/ANDROID/AlienMultyAds-Saturnus-11/AlienAds/src/main/res/layout/admob_big_native.xml" value="0.40217391304347827" />
+        <entry key="..\:/ANDROID/AlienMultyAds-Saturnus-11/AlienAds/src/main/res/layout/admob_small_native.xml" value="0.33" />
+        <entry key="..\:/ANDROID/AlienMultyAds-Saturnus-11/AlienAds/src/main/res/layout/max_big_native.xml" value="0.40217391304347827" />
+        <entry key="..\:/ANDROID/AlienMultyAds-Saturnus-11/AlienAds/src/main/res/layout/max_small_native.xml" value="0.33" />
+        <entry key="..\:/ANDROID/AlienMultyAds-Saturnus-11/app/src/main/res/layout/activity_main.xml" value="0.19655521783181357" />
       </map>
     </option>
   </component>
