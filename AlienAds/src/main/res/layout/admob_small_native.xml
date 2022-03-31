@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+    android:layout_margin="2dp"
     android:background="@drawable/stroke">
 
     <LinearLayout
@@ -100,13 +101,15 @@
                     <Button
                         android:id="@+id/ad_call_to_action"
                         android:layout_width="wrap_content"
-                        android:layout_height="35dp"
+                        android:layout_height="30dp"
                         android:layout_gravity="center"
                         android:layout_marginRight="5dp"
                         android:background="@drawable/round_black"
                         android:gravity="center"
-                        android:textColor="@color/cardview_light_background"
-                        android:textSize="12sp" />
+                        android:textColor="@color/native_text_button"
+                        android:textSize="8sp"
+                        android:paddingHorizontal="10dp"
+                        tools:text="Install Sekarang" />
                 </LinearLayout>
 
             </LinearLayout>
